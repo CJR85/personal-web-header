@@ -80,3 +80,15 @@ nav ul li a {
 .col-1 span {
   color: #ff1d1d;
 }
+
+.profile-img {
+  width: 80%;
+  max-width: 450px;
+  position: relative;
+  z-index: 2;
+}
+
+.col-2 {
+  text-align: right;
+  position: relative;
+}
