@@ -55,3 +55,24 @@ nav ul li a {
   width: 20px;
   margin-left: 15px;
 }
+
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding-top: 10%;
+}
+
+.col-1 {
+  max-width: 800px;
+  padding-left: 10%;
+  color: #333;
+}
+
+.col-1 h1 {
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 50px;
+  margin-bottom: 30px;
+}
