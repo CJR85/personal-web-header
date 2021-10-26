@@ -40,3 +40,18 @@ nav ul li a {
   color: #fff;
   text-decoration: none;
 }
+
+.contact-me {
+  position: absolute;
+  top: 40px;
+  right: 8%;
+  display: flex;
+  align-items: center;
+  color: #000;
+  text-decoration: none;
+}
+
+.contact-me img {
+  width: 20px;
+  margin-left: 15px;
+}
